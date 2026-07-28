@@ -25,7 +25,7 @@ Fixer les deux rails de support (format rackmount 19") pour accueillir la consol
 * **Emplacement :** Niveau **26U** de la baie principale.
 * **Méthode :** Vissage direct sur les montants verticaux avant et arrière de la baie.
 <br>
-<img src="images/images/KVM-Rack-26U.png" width="450" alt="Positionnement au niveau 26U">
+<img src="images/KVM-Rack-26U.png" width="450" alt="Positionnement au niveau 26U">
 <br>
 
 > [!NOTE]
@@ -73,7 +73,7 @@ Chaque serveur est relié via un câble pieuvre unique qui se divise en deux à 
 | **⌨️ USB** | Émulation clavier/souris : le serveur détecte les périphériques comme s'ils étaient branchés en local. |
 
 <br>
-<img src="images/images/photo_arriere_serveur.png" width="600" alt="Câblage côté serveur">
+<img src="images/photo_arriere_serveur.png" width="600" alt="Câblage côté serveur">
 <br>
 
 ---
@@ -86,7 +86,7 @@ Une fois les serveurs branchés, allumage de l'écran KVM pour contrôle :
 - ✅ Passage entre les différents serveurs fonctionnel
 
 <br>
-<img src="images/images/interface_utilisateur.png" width="600" alt="Interface utilisateur">
+<img src="images/interface_utilisateur.png" width="600" alt="Interface utilisateur">
 
 > [!NOTE]
 > *Une fois le serveur sélectionné, son affichage apparaît à l'écran. L'interface Windows s'affiche alors comme sur un PC classique : il suffit de taper les identifiants pour ouvrir la session.*
@@ -98,7 +98,7 @@ Une fois les serveurs branchés, allumage de l'écran KVM pour contrôle :
 ### 🕹️ Panneau de commande frontal
 <br>
 
-<img src="images/images/panneau_frontale.png" width="600" alt="Panneau frontal Dexlan">
+<img src="images/panneau_frontale.png" width="600" alt="Panneau frontal Dexlan">
 
 <br>
 
