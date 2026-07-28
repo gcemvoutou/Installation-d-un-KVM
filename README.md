@@ -20,7 +20,7 @@ Documentation technique — Installation et configuration d'une console KVM rack
 
 ### 📸 Aperçu de l'installation en mairie
 
-![Installation KVM](images/image_kvm_installe.jpeg)
+<img src="images/image_kvm_installe.jpeg" width="450" alt="Installation KVM">
 
 
 <br>
