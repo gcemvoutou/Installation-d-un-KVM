@@ -19,7 +19,8 @@ Documentation technique — Installation et configuration d'une console KVM rack
 > **Définition :** Un **KVM** (*Keyboard, Video, Mouse*) est un commutateur matériel permettant de contrôler plusieurs ordinateurs ou serveurs avec un seul clavier, un seul écran et une seule souris.
 
 ### 📸 Aperçu de l'installation en mairie
-<img src="images/image_kvm_installe.jpeg" width="450" alt="Installation KVM">
+![Installation KVM](images/image_kvm_installe.jpeg)
+
 
 <br>
 
