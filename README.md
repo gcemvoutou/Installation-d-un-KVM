@@ -51,7 +51,7 @@ L'installation de la console rackable Dexlan vise principalement à :
 ---
 
 ### 📥 Schéma de fonctionnement
-![Schéma KVM](images/schema_serveur_kvm.png)
+<img src="images/schema_serveur_kvm.png" width="450" alt="Schema KVM">
 <br>
 
 ### 🔍 Zoom sur le matériel : Plus qu'un simple boîtier
