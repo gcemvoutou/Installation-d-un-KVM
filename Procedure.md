@@ -98,7 +98,7 @@ Une fois les serveurs branchés, allumage de l'écran KVM pour contrôle :
 ### 🕹️ Panneau de commande frontal
 <br>
 
-<img src="images/panneau_frontale.png" width="500" alt="Panneau frontal Dexlan">
+<img src="images/panneau_frontale.png" width="550" alt="Panneau frontal Dexlan">
 
 <br>
 
