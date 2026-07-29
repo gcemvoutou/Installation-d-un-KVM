@@ -25,7 +25,7 @@ Fixer les deux rails de support (format rackmount 19") pour accueillir la consol
 * **Emplacement :** Niveau **26U** de la baie principale.
 * **Méthode :** Vissage direct sur les montants verticaux avant et arrière de la baie.
 <br>
-<img src="images/KVM-Rack-26U.png" width="450" alt="Positionnement au niveau 26U">
+<img src="images/KVM-Rack-26U.png" width="300" alt="Positionnement au niveau 26U">
 <br>
 
 > [!NOTE]
