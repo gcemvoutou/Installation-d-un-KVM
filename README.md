@@ -10,7 +10,7 @@ Documentation technique — Installation et configuration d'une console KVM rack
 2. [Pourquoi un KVM en mairie ?](#pourquoi-un-kvm-en-mairie-)
 3. [Matériel utilisé](#matériel-utilisé)
 
-> ℹ️ La procédure d'installation détaillée (fixation des rails, câblage, tests, interface de contrôle) se trouve dans [`PROCEDURE.md`](./PROCEDURE.md).
+> ℹ️ La procédure d'installation détaillée (fixation des rails, câblage, tests, interface de contrôle) se trouve dans [`PROCEDURE.md`](./Procedure.md).
 
 ---
 
