@@ -86,7 +86,7 @@ Une fois les serveurs branchés, allumage de l'écran KVM pour contrôle :
 - ✅ Passage entre les différents serveurs fonctionnel
 
 <br>
-<img src="images/interface_utilisateur.png" width="600" alt="Interface utilisateur">
+<img src="images/interface_utilisateur.png" width="500" alt="Interface utilisateur">
 
 > [!NOTE]
 > *Une fois le serveur sélectionné, son affichage apparaît à l'écran. L'interface Windows s'affiche alors comme sur un PC classique : il suffit de taper les identifiants pour ouvrir la session.*
@@ -98,7 +98,7 @@ Une fois les serveurs branchés, allumage de l'écran KVM pour contrôle :
 ### 🕹️ Panneau de commande frontal
 <br>
 
-<img src="images/panneau_frontale.png" width="600" alt="Panneau frontal Dexlan">
+<img src="images/panneau_frontale.png" width="500" alt="Panneau frontal Dexlan">
 
 <br>
 
