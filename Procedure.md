@@ -61,7 +61,7 @@ Les ports VGA sont numérotés de 1 à 8 pour ce modèle.
 | **📺 Port VGA (Console)** | Reçoit le flux vidéo combiné des serveurs cibles. |
 
 <br>
-<img src="images/photo_arriere_kvm.jpeg" width="600" alt="Câblage arrière du KVM">
+<img src="images/photo_arriere_kvm.jpeg" width="650" alt="Câblage arrière du KVM">
 <br>
 
 ### 💽 Côté Serveur
