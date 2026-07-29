@@ -73,7 +73,7 @@ Chaque serveur est relié via un câble pieuvre unique qui se divise en deux à 
 | **⌨️ USB** | Émulation clavier/souris : le serveur détecte les périphériques comme s'ils étaient branchés en local. |
 
 <br>
-<img src="images/photo_arriere_serveur.png" width="550" alt="Câblage côté serveur">
+<img src="images/photo_arriere_serveur.png" width="500" alt="Câblage côté serveur">
 <br>
 
 ---
